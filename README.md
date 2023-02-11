@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @19alema
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Full Stack Web Development in Python and Flask on Udacity
-- 💞️ I’m looking to collaborate on on any Open Source projects and other side Projects
+- 👋 Hi, I’m Alema Edrick
+- From Kampala Uganda
+- 👀 I’m interested in Learning and Sharing my skills to Others
+- 🌱 I’m currently learning Full Stack Web Development [Flask and Python, MERN Stack]
+- 💞️ I’m looking Forward to collaborate on on any Open Source projects and other side Projects 
 - 📫 How to reach me <a>alemaedrick85@gmail.com</a>
 
 <!---
